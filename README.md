@@ -32,5 +32,5 @@ The **Pump.fun Smart Contract forking** is an innovative platform  designed to a
 ## 🍵 Tip
 
 ### If you are interested in my projects, please 🔗fork or give me ⭐star
-# You can verify this star history here: [https://www.star-history.com](https://www.star-history.com/)
+# You can verify this star history here: [https://www.star-history.com](https://www.star-history.com/#enlomy/pumpfun-solana-smart-contract&type=date&legend=top-left)
 [![Star History Chart](https://api.star-history.com/svg?repos=enlomy/pumpfun-solana-smart-contract&type=Date)](https://www.star-history.com/#enlomy/pumpfun-solana-smart-contract&Date)
